@@ -37,22 +37,30 @@ def save_to_file(year, title, keywords):
         file.write(f"keyword : {', '.join(keywords)}\n")
         file.write("-----\n")
 
+def remove_duplicates(unique_ids):
+    seen = set()
+    deduplicated_ids = []
+    for identifier in unique_ids:
+        if identifier not in seen:
+            seen.add(identifier)
+            deduplicated_ids.append(identifier)
+    return deduplicated_ids
+
 # リストページから固有番号を抽出する関数
 def extract_unique_ids(html_content):
     soup = BeautifulSoup(html_content, "html.parser")
     unique_ids = []
-
+    
+    # 正しい形式のリンクを探す
     for a_tag in soup.find_all("a", href=True):
         href = a_tag["href"]
-        if "/browse/transjsme/" in href:
-            parts = href.split("/browse/transjsme/")
+        if "/article/transjsme/" in href:
+            parts = href.split("/article/transjsme/")
             if len(parts) > 1:
-                path_part = parts[1]
-                id_part = path_part.split("/", 1)[0]
-                if id_part:  # Ensure it's valid
-                    unique_ids.append(id_part)
-
-    unique_ids = list(set(unique_ids))  # Remove duplicates
+                identifier = parts[1].split("/")[2]  # 固有のID部分を抽出
+                if identifier.startswith("90_"):  # IDが特定の形式に従う場合
+                    unique_ids.append(identifier)
+    unique_ids = remove_duplicates(unique_ids)
     print(f"Extracted Unique IDs: {unique_ids}")
     return unique_ids
 
