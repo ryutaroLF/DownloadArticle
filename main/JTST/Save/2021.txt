@@ -1,0 +1,90 @@
+title : Effect of fuel property on the ignition and combustion characteristics of prechamber ignition
+keyword : Combustion, Prechamber, Rapid compression and expansion machine, Ignition, Jet flame
+-----
+title : Effect of change factors on evaporation loss based on cold end system in natural draft counter-flow wet cooling towers
+keyword : Natural draft counter-flow wet cooling towers, Mathematical method, Evaporation loss, Circulating water volume, Air parameters, Cold end system
+-----
+title : MILD combustion of ethanol-air with diluted hot oxidant by recirculation in opposite jet
+keyword : MILD combustion, Recirculation ratio, Bio-Ethanol, Opposite-jet, NOXformation
+-----
+title : Effect of the gap height between the vibration plate and heating surface on boiling heat transfer in a boiling bubble resonator
+keyword : Boiling heat transfer, Boiling bubble resonator, Self-excited vibration, FFT analysis
+-----
+title : Promotion of deflagration-to-detonation transition by repeated obstacle rods
+keyword : Deflagration-to-detonation transition (DDT), Obstacle-filled tube, Straight rods, Hydrogen-air mixture, Flame acceleration
+-----
+title : Double-diffusive natural convection in a trapezoidal solar pond with discrete heat boundary conditions: Effects on non-convective zones
+keyword : 3D Solar pond, Non-convective zone, Double diffusion, Discrete heat, Trapezoidal geometry
+-----
+title : Airside heat transfer and pressure drop of an aluminum heat exchanger having a new louver fin with leading edge extension
+keyword : Louver fin, Parallel flow heat exchanger, Wet surface, Drainage, Heat transfer, Pressure drop
+-----
+title : Effects of pressure and heat loss on the unstable motion of cellular-flame fronts caused by intrinsic instability in hydrogen-air lean premixed flames
+keyword : Hydrogen, Lean premixed flame, Pressure, Heat loss, Unstable motion, Cellular-flame front, Intrinsic instability, Fractal dimension
+-----
+title : Reciprocating propagation of premixed flame using time-variable-angle swirl vanes
+keyword : Premixed flame, Swirling flow, Time-variable-angle swirl vane, Reciprocating propagation, Flow velocity
+-----
+title : Droplet size decrease rate of secondary breakup in diesel fuel sprays
+keyword : Diesel engine, Spray, Droplet size decrease rate, Laser measurement, Weber number
+-----
+title : Thermal performance investigation of a plate fin heat sink equipped with twisted tape and perforated twisted tape
+keyword : Heat transfer enhancement, Twist ratio, Porosity, Swirl flow
+-----
+title : Role of combustion derived magnesia nanoflakes on the combustion, emission and functional characteristics of diesel engine susceptible to palm oil biodiesel-diesel blend
+keyword : Nanofuel, Magnesium oxide, Palm biodiesel, Fuel additive, Engine performance, Emission
+-----
+title : The effects of addition of carbon dioxide and water vapor on the dynamic behavior of spherically expanding hydrogen/air premixed flames
+keyword : Hydrogen-air premixed combustion, Spherically expanding flame, Carbon dioxide, Water vapor, Dynamic behavior, Flame acceleration, Intrinsic instability
+-----
+title : Describing characteristic parameters of turbulence over two-dimensional porous roughness
+keyword : PIV measurement, Turbulent boundary layer, Two dimensional roughness, Porous media, Equivalent sand grain roughness
+-----
+title : Transient thermal performance of constant fill ratio vapor chamber with different coolants
+keyword : Vapor chamber, Thermal resistance, Wick structures, Ferrofluid, Optimization, Fill ratio
+-----
+title : Quantitative analysis of primary tar yields volatilized from biomass (Effect of heating rate and biomass type on tar components)
+keyword : Yield, Bio oil, Biomass type, Gasification, Combustion, Advanced chemical application, Choke
+-----
+title : Influence of turbulence-radiation interaction on radiative heat transfer to furnace wall and temperature distribution in large-scale industrial furnaces enveloping hydrocarbon flame
+keyword : Thermal radiation, Turbulent combustion, Numerical simulation, Radiative wall heat flux, Large-scale industrial furnaces, Turbulence-radiation interaction, Hydrocarbon flame
+-----
+title : Effects of fin corrugation and tube geometry on the airside performance of fin-and-tube heat exchangers - Part I; dry surface
+keyword : Heat exchanger, Heat transfer coefficient, Pressure drop, Oval, Corrugated, Dry
+-----
+title : Effect of spatial development on convective heat transfer enhancement in a pipe with transverse vibration
+keyword : Pipe flow, Heat transfer enhancement, Transverse vibration, Spatial development, Direct numerical simulation
+-----
+title : Heat transfer enhancement and torque reduction by traveling wave-like blowing and suction in turbulent Taylor-Couette flow
+keyword : Direct numerical simulation, Taylor-Couette turbulent flow, Traveling wave control, Torque reduction, Heat transfer
+-----
+title : A study on transition process to MEB by limiting boiling space
+keyword : Boiling heat transfer, Subcooled pool boiling, Transition boiling, Microbubble emission boiling, Coalesced bubble, Evaporation and condensation, Dryout, MEB transition, Direct contact heat transfer
+-----
+title : Temperature measurement around multiple boiling bubbles in a confined space using two-color laser-induced fluorescence
+keyword : Two-color laser induced fluorescence, Multiple bubbles, Hele-shaw cell, Pool boiling, Subcooled boiling, Confined space
+-----
+title : Numerical simulation on the freezing of deposited or impinged water droplets on a cold surface
+keyword : Freezing, Droplets, Phase-field method, Projection, Ice shell, Volume increase
+-----
+title : Analysis and control of vapor bubble growth inside solid-state nanopores
+keyword : Joule heating, Nanopore, Bubble nucleation, Moving boundary problem, Microelectronic cooling
+-----
+title : Experimental analysis of the spreading of a liquid film on a bipropellant thruster chamber wall
+keyword : Bipropellant thruster, Liquid film cooling, Visualization, Film spread, Weber number
+-----
+title : Explainable machine learning for the analysis of transport phenomena in top-seeded solution growth of SiC single crystal
+keyword : Bayesian optimization, Silicon carbide, Top-Seeded Solution Growth, Marangoni convection, Convolutional Neural network, Explainable machine learning, Sensitivity map
+-----
+title : Simultaneous OH PLIF/Chemiluminescence and stereoscopic PIV measurements of combustion oscillation onset in turbulent swirling lean premixed flames
+keyword : Swirl-stabilized lean premixed flames, Combustion oscillation, Stereoscopic particle image velocimetry(SPIV), Planar laser induced fluorescence(PLIF), Chemiluminescence
+-----
+title : Effects of ambient temperature on the combustion processes of single pulverized coal particle
+keyword : Single coal particle, Volatile matter, Soot, Two-color pyrometry, Char combustion, Counterflow field
+-----
+title : Simultaneous in situ measurements and numerical analysis of mass transfer in polymer electrolyte fuel cell electrode slurries during drying
+keyword : Polymer electrolyte fuel cell, Catalyst layer, Electrode slurry, Drying process, Mass transfer, Sedimentation, Microelectrode
+-----
+title : Ni-GDC and Ni-YSZ electrodes operated in solid oxide electrolysis and fuel cell modes
+keyword : Solid oxide cell, Ni-GDC electrode, Ni-YSZ electrode, Mixed conductivity, Fuel cell, Electrolysis, Microstructure, Degradation, FIB-SEM
+-----

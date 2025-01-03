@@ -1,0 +1,69 @@
+title : Experimental study on controlling factors reducing hydrogen concentration in a simulated fuel debris storage container using passive autocatalytic recombiner
+keyword : Experimental study, Radiolysis of water, Hydrogen concentration, Controlling factors, Catalyst, Storage container, Passive Autocatalytic Recombiner (PAR)
+-----
+title : Predictions of soot formation in burner-stabilized stagnation flames using various reaction mechanisms
+keyword : Soot, Burner-stabilized stagnation flame, Reaction mechanisms, Two-equation model, Fuel pyrolysis
+-----
+title : Flame behavior and emission characteristics of methane and ammonia fueled high-temperature flame in a bench-scale furnace
+keyword : Combustion, Ammonia, Heating furnace, Highly preheated air, Nitrogen oxides, Chemiluminescence
+-----
+title : A hybrid analytical model for thermodynamic calculations of supercritical carbon dioxide centrifugal compressors
+keyword : Supercritical carbon dioxide, Thermodynamic properties, Benedict-Webb-Rubin-Starling equation of state (BWRS EOS), Hybrid model, Centrifugal compressor
+-----
+title : Application of machine learning to optimized design of layer structured particles
+keyword : Direct absorption solar collector (DASC), Machine learning, Neural network, Support vector machine (SVM), Light gradient boosting machine (Light GBM)
+-----
+title : Detecting a sign of severe fire events by image processing
+keyword : Fire whirl, Early-warning signal, Image processing, Noise characterization, Dynamical marker
+-----
+title : Stable branch and hysteresis effect of steady cubic convection
+keyword : Rayleigh-Bénard convection, Natural convection, Heat transfer, Convective stability, Hysteresis effect
+-----
+title : Radiative energy transfer via surface plasmon polaritons around metal–insulator grating: For better understanding of magnetic polariton
+keyword : Surface plasmon polariton, Circuit resonance, Magnetic polariton, Lumped-element model, Fabry–Pérot interference
+-----
+title : Gas-species dependence of permeation flow in solid oxide fuel cell porous anodes fabricated with pore formers
+keyword : Solid oxide fuel cell anode, Permeability, Knudsen effect, Porous microstructure, Permeation experiment, Three-dimensional numerical simulation
+-----
+title : Thermodynamic analysis of a new electric environmental control system with energy recovery turbine
+keyword : Electric environmental control system, Energy recovery, Thermodynamic analysis, Pressure ratio, Recovery turbine
+-----
+title : Combustion performance ofn-butane-fueled mesoscale annular combustor
+keyword : Mesoscale combustor, Blow-off limit, Thermal output, Thermal efficiency, Pressure drop
+-----
+title : Wet torrefaction kinetics and heating value estimation for wet torrefied Japanese cedar and rice straw
+keyword : Biomass, Solid biofuels, Torrefaction, Wet torrefaction kinetics, Higher heating value, Solid mass yield, Ash removal
+-----
+title : Effects of fuel on the performance of miniature vortex combustion power system
+keyword : Micro-combustion, Vortex combustor, Vortex flow, Power system, Lewis number effect
+-----
+title : Measurements of C2and CH chemiluminescence of CH4/H2flames by a digital camera
+keyword : Combustion measurement, Premixed flame, Laminar flame, Hydrogen, Chemiluminescence
+-----
+title : Relationship between heat flux and bubble population density in heat transfer enhancement of flow boiling using microstructured surfaces
+keyword : Microstructure, Nucleate boiling heat transfer, Flow boiling, Subcooled boiling, Bubble population density
+-----
+title : Temperature-leveling performance comparison of solid–solid phase change materials for thermal management of electronic chips in thin devices
+keyword : Solid–solid phase change material, Thermal management, Temperature leveling, Vanadium dioxide, NiTi alloy, Shape memory alloy
+-----
+title : Effects of pilot injector specifications on combustion and emissions of diesel-methanol dual-fuel direct injection engine
+keyword : Pilot diesel injector, Methanol direct injection, Premixed and diffusion combustion, Emissions
+-----
+title : Effects of hydrogen addition on soot emission of methane and propane coaxial jet diffusion flames
+keyword : Combustion, Diffusion flame, Hydrogen, Soot, Laser induced incandescence
+-----
+title : Effects of considering preferential diffusion and flame stretch in FGM method for numerical simulations of hydrogen/air flames
+keyword : Flamelet approach, Flamelet generated manifold, Preferential diffusion, Flame stretch, Premixed hydrogen flame
+-----
+title : Molecular dynamics study of the distribution of local thermal resistances at a nanostructured solid–liquid interface
+keyword : Molecular dynamics, Solid–liquid interface, Interfacial thermal resistance, Nanostructure, Vibrational density of states, Spectral heat flux
+-----
+title : Classification of frost formation style interacting with mist formation on a flat plate with temperatures ranging from general-low to cryogenic using optical measurements
+keyword : Frost formation, Mist formation, Desublimation, Mist deposition, Optical measurement, Forced convection, Flat plate
+-----
+title : A numerical study of backdraft dynamics using a level-set nonadiabatic flamelet model
+keyword : Backdraft, Large-eddy simulation, Level-set function, Mixed combustion regime, Burning velocity
+-----
+title : Electrochemical characteristics of solid oxide fuel cells supplied with CO-rich fuel gases
+keyword : Solid Oxide Fuel Cell (SOFC), Biomass gasification, CO2emission reduction, CO-rich fuel, CO electrochemical oxidation
+-----

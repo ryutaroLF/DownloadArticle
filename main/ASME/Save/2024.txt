@@ -1,0 +1,592 @@
+title : On the Centennial of the Academic Careers (1919–2019) of Llewellyn M. K. Boelter and William H. McAdams: American Pioneers in Heat and Mass Transfer
+keyword : 
+topic : Heat, Mass transfer, Heat transfer, Engineering teachers
+-----
+title : Numerical Computation of Williamson Hybrid Nanofluid Flow Over the Curved Surfaces With Effects of Thermal Radiation
+keyword : 
+topic : Flow (Dynamics), Buoyancy, Temperature, Fluids, Silver, Engines, Thermal radiation, Nanoparticles, Boundary layers, Computation, Nanofluids, Titanium, Titanium dioxide
+-----
+title : Transient Thermal Performance of Phase-Change Material Infused in Cellular Materials Based on Different Unit Cell Topologies
+keyword : 
+topic : Temperature, Metals, Computer simulation, Thermal diffusivity, Transients (Dynamics), Thermal conductivity, Phase change materials, Solidification, Metal foams, Porosity, Topology
+-----
+title : Battery Thermal Management System on Trapezoidal Battery Pack With Liquid Cooling System Utilizing Phase Change Material
+keyword : CPCM, liquid cooling system, thermal conductivity, BTMS, EVs
+topic : Temperature, Cooling, Cooling systems, Composite materials, Thermal conductivity, Phase change materials, Thermal management, Batteries, Lithium-ion batteries
+-----
+title : Computational Modeling With Phantom-Tissue Validation of Gold-Nanorod-Enhanced Laser Ablation of Prostate Cancer
+keyword : gold nanorod, prostate cancer, laser ablation, computational model, ex vivo experiment
+topic : Temperature, Lasers, Fibers, Computer simulation, Simulation, Ablation (Vaporization technology), Laser ablation, Biological tissues, Biomimetics, Cancer, Nanorods, Phantoms
+-----
+title : A Fully Implicit Enthalpy-Porosity Model for Phase-Change
+keyword : porous-media, numerical simulation, phase-change model
+topic : Momentum, Specific heat, Temperature, Diffusion (Physics), Fluids, Permeability, Porous materials, Computer simulation, Melting, Thermal equilibrium, Solidification, Enthalpy, Latent heat, Porosity
+-----
+title : A Comparative Study of Flow Boiling Heat Transfer and Pressure Drop Characteristics in a Pin-Finned Heat Sink at Horizontal/Vertical Upward Flow Orientations
+keyword : flow boiling, pin finned channel, flow orientation, comprehensive heat transfer performance, flow pattern and bubble characteristics
+topic : Flow (Dynamics), Temperature, Heat transfer, Fluids, Bubbles, Boiling, Pressure drop, Subcooling, Heat flux
+-----
+title : Natural Convective Nanofluid Flows Immersed in Oscillating Magnetic Fields Simulated by a Sub-Continuous Lattice Boltzmann Model
+keyword : Hartmann number, magnetic number, nanofluids, oscillating magnetic field
+topic : Oscillations, Electrical conductivity, Flow (Dynamics), Temperature, Heat transfer, Magnetic fields, Rayleigh number, Transients (Dynamics), Nanoparticles, Cycles, Nanofluids, Lattice Boltzmann methods
+-----
+title : Numerical Investigations on Enhancement of Pool Boiling Heat Transfer on a Mixed Wettability Surface Employing Lattice Boltzmann Method
+keyword : hydrophilic, hydrophobic, mixed wettability, heat flux, surface superheat, bubble ebullition
+topic : Density, Heat transfer, Vapors, Bubbles, Nucleation (Physics), Boiling, Pool boiling, Lattice Boltzmann methods, Heat flux, Critical heat flux
+-----
+title : Computational Modeling of Walking Beam Type Reheat Furnace for the Prediction of Slab Heating and Scale Formation
+keyword : reheating furnace, walking beam, CFD modeling, scale growth
+topic : Temperature, Computer simulation, Simulation, Slabs, Furnaces, Heating
+-----
+title : Vapor Cloud Behavior of Heavier-Than-Air Hydrocarbon Liquid Evaporating From a Microliter Volume Heated Well Cavity
+keyword : thermo-solutal convection, vapor phase transport, thin-film evaporation, digital holographic interferometry
+topic : Temperature, Vapors, Convection, Evaporation, Cavities, Ethanol
+-----
+title : Numerical Study on Heat Transfer and Pressure Loss Characteristics of Swirl Cooling in Elliptical Tubes With Tangential Jet Inlets
+keyword : swirl cooling, elliptical tube, heat transfer, pressure loss, flow structure
+topic : Pressure, Flow (Dynamics), Heat transfer, Cooling, Reynolds number
+-----
+title : Maximization of the Heat Transfer Irreversibility
+keyword : 
+topic : Heat, Temperature, Heat transfer, Fluids, Entropy, Heat exchangers
+-----
+title : Experimental and Numerical Investigation of Flow Boiling in Additive Manufactured Foam Structures With Vapor Pathways
+keyword : 
+topic : Pressure, Flow (Dynamics), Fluids, Vapors, Computer simulation, Flux (Metallurgy), Simulation, Boiling, Metal foams, Additive manufacturing
+-----
+title : Energy Modeling of an Aquaculture Raceway
+keyword : aquaculture, aquaculture raceway, energy modeling, numerical modeling
+topic : Temperature, Heat transfer, Solar radiation, Water
+-----
+title : Convective Heat Transfer and Entropy Generation Analysis in Elliptic Microchannels
+keyword : entropy generation, viscous dissipation, rarefaction effect, elliptical microchannel, Nusselt number
+topic : Heat transfer, Fluids, Entropy, Energy dissipation, Knudsen number, Boundary-value problems, Microchannels
+-----
+title : Developing a Computational Fluid Dynamics-Finite Element Method Model to Analyze Thermal-Mechanical Stresses in a Heavy-Duty Medium-Speed Diesel Engine Piston During Warm-Up
+keyword : piston thermal-mechanical stress, warming-up conditions, piston strength/lifetime, CFD-FEM
+topic : Temperature, Engines, Stress, Boundary-value problems, Pistons
+-----
+title : Thermal Resistance of Heated Superhydrophobic Channels With Thermocapillary Stress
+keyword : 
+topic : Flow (Dynamics), Heat, Temperature, Computer simulation, Stress, Cavities, Thermal resistance, Water, Heating
+-----
+title : Analysis of Drying Front Propagation and Coupled Heat and Mass Transfer During Evaporation From Additively Manufactured Porous Structures Under a Solar Flux
+keyword : solar, porous media, drying front, heat and mass transfer
+topic : Heat, Mass transfer, Porous materials, Drying, Evaporation, Solar energy, Water, Additive manufacturing
+-----
+title : Significance of Upstream Wall Conditions in Characterizing the Heat Transfer Phenomena of Rarefied Flows
+keyword : rarefaction, upstream wall, Nusselt number, Peclet number
+topic : Flow (Dynamics), Heat, Temperature, Heat transfer, Fluids, Heating
+-----
+title : Pore-Scale Study of Gas Natural Convection in Confined Porous Media Based on Lattice Boltzmann Method
+keyword : 
+topic : Flow (Dynamics), Temperature, Heat transfer, Porous materials, Relaxation (Physics), Natural convection, Cylinders, Lattice Boltzmann methods
+-----
+title : Significant Enhancement of Near-Field Radiative Heat Transfer by Misaligned Bilayer Heterostructure of Graphene-Covered Gratings
+keyword : near-field radiative heat transfer, heterostructure, misalignment, graphene
+topic : Radiative heat transfer, Diffraction gratings, Waves, Phonons, Plasmons (Physics), Polaritons, Graphene, Heat flux, Silicon carbide
+-----
+title : A Whole-Core Transient Thermal Hydraulic Model for Fluoride Salt-Cooled Reactors
+keyword : 
+topic : Pressure, Flow (Dynamics), Heat, Temperature, Fluids, Fuels, Manufacturing, Simulation, Coolants, Transients (Dynamics), Pins (Engineering), Accidents, Graphite, Heat sinks, Steady state
+-----
+title : Numerical Study of Mixed Convection of Buoyant Twin Jet
+keyword : twin vertical jets, mixed convection, buoyancy, heat transfer, CFD
+topic : Flow (Dynamics), Buoyancy, Temperature, Turbulence, Jets, Forced convection, Mixed convection, Natural convection
+-----
+title : Study on Thermo-Hydraulic Performance and Correlation Development of the Interrupted Flying-Wing Fins
+keyword : interrupted flying-wing fin, response surface method, correlations, weighting analysis
+topic : Flow (Dynamics), Heat transfer, Computer simulation, Heat exchangers, Fins, Wings
+-----
+title : Analysis of Multilayer Cylindrical Thermal Conduction With a Time-Varying Convective Boundary Condition
+keyword : multilayer diffusion, convective boundary condition, thermal design, analytical modeling
+topic : Heat, Temperature, Heat conduction, Convection, Design, Modeling, Boundary-value problems, Cylinders, Temperature distribution
+-----
+title : Estimating the Thermal Conductivity of Thin Films: A Novel Approach Using the Transient Plane Source Method
+keyword : thin films, transient plane source, thermal conductivity, thermal resistance, one-dimensional heat flow
+topic : Thin films, Flow (Dynamics), Heat, Temperature, Sensors, Transients (Dynamics), Thermal conductivity, Thermal resistance, Contact resistance
+-----
+title : Cryogenic Air Supply Feasibility for a Confined Space: Underground Refuge Alternative Case Study
+keyword : confined space, gas concentration, breathable air, cryogenic air supply
+topic : Combustion, Containers, Safety, Carbon dioxide, Oxygen, Water
+-----
+title : Steady and Unsteady Complex Heat Transfer in Optically Thick Medium During Film Boiling
+keyword : 
+topic : Temperature, Heat transfer, Vapors, Radiation (Physics), Boundary-value problems, Film boiling, Steady state, Temperature profiles, Heat flux
+-----
+title : Understanding Inconsistencies in Thermohydraulic Characteristics Between Experimental and Numerical Data for DI Water Flow Through a Rectangular Microchannel
+keyword : microchannel, openFOAM, single phase, friction factor, heat transfer, development length, measurement uncertainties
+topic : Pressure, Flow (Dynamics), Heat transfer, Computer simulation, Temperature profiles, Water, Microchannels
+-----
+title : Influence of Buoyancy and Inter-Surface Radiation on Confined Jet Impingement Cooling of a Semi-Cylindrical Concave Plate
+keyword : jet impingement, convection, laminar, inter-surface radiation, buoyancy, emissivity
+topic : Pressure, Flow (Dynamics), Buoyancy, Temperature, Heat transfer, Cooling, Radiation (Physics), Reynolds number, Emissivity, Convection, Impingement cooling
+-----
+title : Experimental Study on Thermal Management of Nano-Enhanced Phase Change Material Integrated Battery Pack
+keyword : thermal management, nano enhanced PCM, lithium-ion battery, battery pack, PCM
+topic : Temperature, Cooling, Thermal conductivity, Phase change materials, Thermal management, Batteries, Lithium-ion batteries
+-----
+title : Boiling Heat Transfer Performance of Pure Water on Binary Oxide-Based Nanoparticles Coatings
+keyword : electrophoretic deposition, hydrophobic surface, nanoparticles, boiling heat transfer
+topic : Temperature, Heat transfer, Copper, Coating processes, Coatings, Electrophoretic deposition, Nanoparticles, Boiling, Pool boiling, Water, Heat flux, Heat transfer coefficients, Titanium dioxide
+-----
+title : Parameter Identification Problem for Drying of Solid Propellants: Effective Diffusivity
+keyword : mass transfer, vacuum drying, drying kinetics, solid propellants, the method of Kulish, fractional differ-integrals
+topic : Drying, Vacuum, Geometry, Propellants
+-----
+title : On the Aero-Thermal Performance of Rim Film Cooling in the Squealer Tip of a Linear Turbine Cascade
+keyword : Gas turbine heat transfer, Tip leakage mitigation, Cooled squealer tip, Forced convection, Rim cooling
+topic : Flow (Dynamics), Heat transfer, Cooling, Cascades (Fluid dynamics), Design, Vortices, Blades, Cavities, Leakage flows, Leakage, Film cooling
+-----
+title : Truncated Cone – A Universal Primitive Shape for Axisymmetric View Factor Systems
+keyword : 
+topic : Composite materials, Errors, Monte Carlo methods, Ray tracing, Shapes
+-----
+title : Theoretical Study on Falling Film Fin-Tube Dehumidifier Integrated With an Evaporative Cooler
+keyword : falling film dehumidifier, liquid desiccant, heat and mass transfer, tube height, humidity ratio, moisture effectiveness
+topic : Flow (Dynamics), Heat, Temperature, Mass transfer, Dehumidification, Air flow, Evaporative cooling, Theoretical analysis, Dehumidifiers
+-----
+title : Modification of the Acoustic Mismatch Model and Diffuse Mismatch Model for Accurate Prediction of Interface Thermal Conductance at Low Temperatures
+keyword : 
+topic : Heat, Temperature, Acoustics, Surface roughness, Phonons, Thermal conductivity, Low temperature, Probability
+-----
+title : Upstream Electrohydrodynamic Conduction Pumping for Flow Distribution Control of Parallel Microchannel Evaporators
+keyword : 
+topic : Pressure, Flow (Dynamics), Heat, Temperature, Fluids, Heat conduction, Electrohydrodynamics, Boiling, Design, Pumps, Microchannels, Heat flux, Human failure events
+-----
+title : Effect of Wettability Gradient on the Scale Formation in Falling Film Flow
+keyword : wettability gradient, thermal desalination, crystallization fouling, heat and mass transfer
+topic : Thin films, Flow (Dynamics), Heat transfer, Crystals, Crystallization, Coating processes, Coatings, Dimensions, Incrustations, Film flow, Stainless steel, Strips
+-----
+title : A Novel Correlation for Considering the Effect of Neighboring Droplets on the Evaporation Rate of Solvent Droplets Used in Carbon Capture Applications
+keyword : carbon capture, droplet evaporation, surface area ratio, mono-ethanolamine (MEA), aqueous ammonia
+topic : Temperature, Drops, Evaporation
+-----
+title : Numerical Study on Thermal Hydraulic and Flow-Induced Noise in Triply Periodic Minimal Surface (TPMS) Channels
+keyword : heat exchanger, triply periodic minimal surface, heat transfer, entropy production, flow-induced noise
+topic : Flow (Dynamics), Heat transfer, Entropy, Noise (Sound), Triply periodic minimal surfaces
+-----
+title : Experimental and Computational Evidence of Damped Axial Conduction With Reciprocating Flow
+keyword : axial conduction, experimental evidence, reciprocating flow, microchannels, finite-element method, heat transfer enhancement
+topic : Flow (Dynamics), Temperature, Heat transfer, Fluids, Heat conduction
+-----
+title : Experimental and Numerical Investigation of Effect of Inclination on sCO2 Heat Transfer in a Circular Pipe
+keyword : supercritical CO2, heat transfer, experimental, inclination, gravity, buoyancy
+topic : Pressure, Flow (Dynamics), Buoyancy, Temperature, Heat transfer, Fluids, Computational fluid dynamics, Pipes, Wall temperature, Heat transfer coefficients
+-----
+title : Thermal Analysis of Jet-in-Crossflow Technique for Hotspot Treatment in Electronics Cooling
+keyword : jet-in-crossflow, hotspot treatment, electronics cooling, vertical and angled jet, rib structured channel, pure jet impingement, pure crossflow, CFD
+topic : Flow (Dynamics), Temperature, Cooling, Coolants, Computer cooling
+-----
+title : Modeling of Average Nusselt Number by Machine Learning and Interpolation Techniques
+keyword : 
+topic : Magnetic fields, Modeling, Artificial neural networks, Interpolation, Curve fitting
+-----
+title : Transient Process Analysis of Oscillating Motion in Oscillating Heat Pipes
+keyword : 
+topic : Oscillations, Heat transfer, Fluids, Transients (Dynamics), Heat pipes, Task analysis, Operating temperature
+-----
+title : Optimization of Y-Shaped Micro-Mixers With a Mixing Chamber for Increased Mixing Efficiency and Decreased Pressure Drop
+keyword : passive micro-mixer, 3-D micro-mixer, mixing chamber, Y-shaped micro-mixer
+topic : Flow (Dynamics), Fluids, Reynolds number, Design, Optimization, Pressure drop
+-----
+title : In-Situ Measurement of Thermal Barrier Coating Properties Via Induction Phase Radiometry: Methodology Development
+keyword : 
+topic : Thin films, Heat, Temperature, Electromagnetic induction, Coatings, Radiation measurement, Radiation (Physics), Heat conduction, Transfer functions, Noise (Sound), Thermal properties, Boundary-value problems, Errors, Signals, Thermal barrier coatings, Thermal resistance, Heating, Excitation
+-----
+title : Erratum: “Heat Transfer in Flat-Plate Boundary Layers: A Correlation for Laminar, Transitional, and Turbulent Flow” [ASME J. Heat Mass Transfer-Trans. ASME, 2020, 142(6), p. 061805; DOI: 10.1115/1.4046795]
+keyword : 
+topic : Heat, Heat transfer, Turbulence, Boundary layers, Flat plates
+-----
+title : Special Issue: Richard J. Goldstein Memorial Issue—Transformative and Innovative Advancements in Heat and Mass TransferA Lifetime of Path-Breaking Scholarship That Spans Gas-Turbine Cooling to Transport Processes and Critical Diagnostic Tools for Convective Heat Transfer and More
+keyword : 
+topic : Heat, Mass transfer, Cooling, Arches, Convection, Gas turbines, Transport processes
+-----
+title : Tracing the Academic Lineage of Richard J. Goldstein
+keyword : 
+topic : Physics, Heat, Heat transfer, Students, Mathematics, Astronomy
+-----
+title : Rayleigh–Bénard Convection in a Gas-Saturated Porous Medium at Low Darcy Numbers
+keyword : 
+topic : Flow (Dynamics), Heat transfer, Fluids, Porous materials, Drag (Fluid dynamics), Rayleigh number, Convection
+-----
+title : Rotating Flow and Heat Transfer Characteristics of a Novel Cooling Channel for Gas Turbine Blade Trailing Edge With Diamond-Type TPMS Structures
+keyword : gas turbine blade, rotation, thermal performance, trailing edge cooling, triply periodic minimal surface
+topic : Pressure, Rotation, Flow (Dynamics), Heat transfer, Cooling, Reynolds number, Gas turbines, Blades, Diamonds, Fins, Wedges, Triply periodic minimal surfaces
+-----
+title : Temperature Distribution in a Nonprismatic Thermoelectric Leg and the Energy Conversion Efficiency
+keyword : thermoelectric material, non-prismatic leg, temperature distribution, energy conversion efficiency
+topic : Flow (Dynamics), Heat, Temperature, Energy efficiency, Energy conversion, Temperature distribution, Heat flux
+-----
+title : Three-Dimensional Simulations of Nucleate Boiling With Sharp Interface Volume of Fluid and Localized Adaptive Mesh Refinement in ansys-fluent
+keyword : VOF, boiling, mass transfer, two phase flow, Ansys customization, 3D multiphase simulation, adaptive mesh
+topic : Temperature, Fluids, Vapors, Simulation, Bubbles, Nucleate boiling
+-----
+title : Thermal Characterization of Subcooled Flow Boiling in a Pin-Fin Coldplate With Non-Uniform Heating
+keyword : subcooled flow boiling, cold plate, non-uniform heating, thermal management of power electronics, dielectric fluids, ultra-high heat flux, hot spot
+topic : Flow (Dynamics), Heat, Temperature, Boiling, Subcooling, Heating, Heat flux
+-----
+title : Evaluation by Liquid Crystal Thermography of Transient Surface Temperature Distribution in Radiant Floor Cooling Applications and Assessment of Analytical and Numerical Models
+keyword : experimental techniques, energy systems, conduction, radiative heat transfer, thermal systems
+topic : Temperature, Liquid crystals, Computer simulation, Transients (Dynamics), Pipes, Steady state, Temperature distribution
+-----
+title : Numerical Study of Eccentric Jet Impingement Cooling on a Heated Cylindrical Surface
+keyword : eccentric jet, cylinder cooling, numerical study, turbulence, heat transfer
+topic : Fluid dynamics, Flow (Dynamics), Heat transfer, Cooling, Separation (Technology), Fluids, Turbulence, Reynolds number, Impingement cooling, Nozzles, Cylinders
+-----
+title : Spray Cooling Heat Transfer of a Two-Fluid Spray Atomizer
+keyword : two-fluid spray atomizer, cooling/boiling curve, air–liquid ratio, optical non-intrusive measurement
+topic : Temperature, Heat transfer, Cooling, Fluids, Drops, Nozzles, Sprays
+-----
+title : Effect of Strip-Fin Height on Jet Impingement Heat Transfer in a Rectangular Channel at Two Jet-to-Target Surface Spacings
+keyword : heat transfer enhancement, jet impingement, crossflow effect, strip-fins, pin-fins
+topic : Pressure, Flow (Dynamics), Temperature, Heat transfer, Reynolds number, Jets, Fins, Strips
+-----
+title : Microscale Surface Defects Influence on Thermally Sprayed Alumina Droplets Deformation and Splashing Dynamics
+keyword : thermal spray, molten alumina, micro-obstructions, splat, heat transfer, shrinkage, surface roughness, solidification, shearing, splashing
+topic : Dynamics (Mechanics), Deformation, Temperature, Heat transfer, Particulate matter, Surface roughness, Drops, Solidification
+-----
+title : High Power Density Thermal Energy Storage With Phase Change Material in Enhanced Compact Heat Exchangers
+keyword : 
+topic : Flow (Dynamics), Temperature, Phase transitions, Freezing, Heat transfer, Cooling, Fluids, Melting, Phase change materials, Heat exchangers, Cycles, Fins, Storage, Subcooling, Thermal energy storage, Water, Heating, Microchannels, Heat transfer coefficients, Power density
+-----
+title : Integral Transform Solution for Natural Convection Within Horizontal Concentric Annular Cavities
+keyword : natural convection, horizontal annular cavities, Navier–Stokes equations, laminar flow, hybrid methods, integral transforms
+topic : Flow (Dynamics), Temperature, Rayleigh number, Eigenfunctions, Natural convection, Boundary-value problems, Cavities, Cylinders, Eigenvalues
+-----
+title : Effect of Finite Thermal Conductivity Bounding Walls on Darcy–Bénard Convection
+keyword : porous-media convection, Nusselt number, Rayleigh–Darcy number, plate thermal conductivity, computational fluid dynamics
+topic : Heat transfer, Fluids, Porous materials, Thermal conductivity, Convection, Plates (structures)
+-----
+title : Using Multiscale Atmospheric Modeling to Explore the Impact of Surface Albedo on Anthropogenic Heat Release
+keyword : anthropogenic heat transfer, multiscale atmospheric modeling, urban heat, urban digital twin
+topic : Heat, Temperature, Albedo, Simulation, Microscale devices, Modeling, Boundary-value problems, Cities, Large eddy simulation, Heat flux
+-----
+title : Film Cooling Performance on a Turbine Blade With Subregional Compound Angle
+keyword : film cooling, turbine blade, compound angle, secondary flow, vortex
+topic : 
+-----
+title : An Active Phantom Cooling Concept for Turbine Endwall Cooling From Pressure-Surface Film Coolant Injection
+keyword : active phantom cooling, turbine endwall, film cooling, correlation, pressure-sensitive paint
+topic : Pressure, Flow (Dynamics), Cooling, Coolants, Turbines, Film cooling, Phantom cooling
+-----
+title : Heat Transfer and Flow Characteristics of Channel Impingement Cooling Structure at Leading Edge Inside Turbine Blades Using Large Eddy Simulation
+keyword : gas turbine blades, wall jet cooling, flow and heat transfer, large eddy simulation
+topic : Flow (Dynamics), Heat transfer, Cooling, Turbulence, Coolants, Turbine blades, Impingement cooling, Vortices, Blades, Geometry, Large eddy simulation, Turning angles
+-----
+title : Thermal Energy Storage Heat Exchanger Design: Overcoming Low Thermal Conductivity Limitations of Phase-Change Materials
+keyword : phase-change material, solid-to-liquid, thermal conductivity, latent heat thermal energy storage, decarbonization, figure of merit
+topic : 
+-----
+title : Semi-Analytical Solution for a Single-Phase Conduction Problem of a Finite-Slab With a Growing or Receding Boundary
+keyword : 
+topic : Temperature, Heat conduction, Simulation, Slabs, Finite element analysis, Laplace transforms
+-----
+title : Thermal Spreading/Constriction From an Isothermal Source Into a Multilayer Orthotropic Semi-Infinite Flux Tube
+keyword : thermal spreading resistance, thermal constriction resistance, interfacial thermal transport, microelectronics thermal management
+topic : Thin films, Heat, Temperature, Heat transfer, Thermal conductivity, Boundary-value problems, Geometry, Polynomials, Algebra
+-----
+title : Investigation of Heat Source Layout Optimization by Using Deep Learning Surrogate Models
+keyword : heat source layout optimization, neural networks, thermal management
+topic : Heat, Optimization, Thermal management, Feedforward neural networks, Deep learning
+-----
+title : Experimental and Computational Investigation of Flow Boiling in a 52 μm Hydraulic Diameter Microchannel Evaporator With Inlet Restrictions and Heat Spreading
+keyword : microchannel flow boiling, high heat flux thermal management, multiphase flow simulation, coupled level set volume of fluid
+topic : Pressure, Flow (Dynamics), Heat, Temperature, Heat transfer, Fluids, Vapors, Boiling, Microchannel flow, Pressure drop, Microchannels, Heat flux, Heat transfer coefficients
+-----
+title : Dependence of Radiance of Burning Coal Bed on Ash Formation and Dew Condensation
+keyword : radiance, burning coal bed, dew condensation, ash formation, anisotropic scattering
+topic : Temperature, Condensation, Combustion, Electromagnetic scattering, Radiance, Coal
+-----
+title : Effects of Flow Pulsation and Surface Geometry on Heat Transfer Performance in a Channel With Teardrop-Shaped Dimples Investigated by Large Eddy Simulation
+keyword : 
+topic : Flow (Dynamics), Friction, Heat transfer, Turbulence, Geometry, Pulsatile flow, Large eddy simulation
+-----
+title : Experimental Analysis of the Improvement of Heat Transfer in Tube Heat Exchangers Via Passive Flow Generators Using Wire Coil Inserts
+keyword : heat transfer enhancement, wire coil insertion, Reynold number, thermal performance ratio
+topic : Flow (Dynamics), Friction, Temperature, Heat transfer, Reynolds number, Wire, Heat exchangers
+-----
+title : Effect of Porosity Gradient on the Solidification of Paraffin in a Thermal Energy Storage Tank Filled With Metal Foam
+keyword : phase-change material, metal foam, latent thermal energy storage, gradient design, porosity, gradient optimization
+topic : Temperature, Heat transfer, Computer simulation, Paraffin wax, Solidification, Metal foams, Porosity, Thermal energy storage
+-----
+title : Numerical Investigations of Stirring Induced Flow on Solidification and Interface Behavior in Continuous Casting Mold With Bifurcated Nozzle
+keyword : EMS, solidification, interface
+topic : Flow (Dynamics), Steel, Casting, Magnetic fields, Slags, Modeling, Solidification, Current density
+-----
+title : Melting and Heat Transfer Characteristics of Phase Change Material: A Comparative Study on Wire Mesh Finned Structure and Other Fin Configurations
+keyword : phase change material, fin design, wire-mesh, heat enhancement
+topic : Heat, Temperature, Heat transfer, Wire mesh, Melting, Phase change materials, Design, Fins
+-----
+title : Rayleigh–Bénard Convection With Multiple Solutions in Trapezoidal Closed Cavities
+keyword : natural convection, Rayleigh-Bénard convection, multiple steady-states, bifurcation analysis
+topic : Flow (Dynamics), Convection, Bifurcation, Cavities
+-----
+title : Erratum: “Adaptive Computations to Pressure Profile for Creeping Flow of a Non-Newtonian Fluid With Fluid Non-Constant Density Effects,” [ASME J. Heat Mass Transfer-Trans. ASME, 2022, 144(10), p. 103601; DOI: 10.1115/1.4055092]
+keyword : 
+topic : Density, Pressure, Heat, Fluids, Non-Newtonian fluids, Computation, Creeping flow
+-----
+title : Green's Function for Laminar Flow in Channels With Porous Walls in the Presence of a Transverse Magnetic Field
+keyword : laminar flow, transverse magnetic field, channel with porous walls, magnetohydrodynamics, boundary value problem, Green's function
+topic : Magnetohydrodynamics, Magnetic fields, Laminar flow, Boundary-value problems, Integral equations
+-----
+title : Turbulent Pulsating Convective Flow in the Quasi-Steady and Low-Frequency Regimes
+keyword : turbulent pulsating flow, convective pipe flow, Nusselt number
+topic : Oscillations, Flow (Dynamics), Temperature, Turbulence, Pipe flow, Pipes, Pulsatile flow
+-----
+title : Experimental and Numerical Evaluation of the Film Cooling Characteristics of the Multicavity Tip With Inclined Film Holes
+keyword : 
+topic : Pressure, Flow (Dynamics), Temperature, Cooling, Coolants, Vortices, Blades, Cavities, Film cooling
+-----
+title : Effects of Flow Pulsation and Surface Geometry on Heat Transfer Performance in a Channel With Teardrop-Shaped Dimples Measured by Transient Technique
+keyword : 
+topic : Flow (Dynamics), Friction, Heat transfer, Reynolds number, Transients (Dynamics), Flow separation, Geometry, Pulsatile flow, Reynolds-averaged Navier–Stokes equations
+-----
+title : Local Heat Transfer Distribution on Thin Metal Foil Impinged by Array of Free Surface Jets
+keyword : local heat transfer, free surface jet, submerged jet, multiple jet impingement, thin metal foil technique, thermal imaging
+topic : Heat transfer, Reynolds number, Metal foil, Jets, Nozzles, Flat plates
+-----
+title : Experimental and Numerical Investigation for Hydrothermal Performance of the Jet Impingement Microchannel Heat Sink
+keyword : jet impingement, microchannel, hybrid heat sink, figure of merit, ansysfluent, Reynolds number
+topic : Flow (Dynamics), Temperature, Heat transfer, Fluids, Jets, Nozzles, Heat sinks, Pressure drop, Wall temperature, Microchannels, Heat transfer coefficients
+-----
+title : Buoyancy and Velocity Field Synergy Principle in Convective Heat Transfer and Its Role in Thermo-Hydraulic Performance Improvement
+keyword : convective heat transfer, multi-field synergy, mechanical and thermal energy transport, synergetic equation, work done by buoyancy, thermo-hydraulic performance
+topic : Flow (Dynamics), Buoyancy, Fluids, Convection, Pressure drop
+-----
+title : Non-Isothermal Plane Couette Flow and Its Stability in an Anisotropic and Inhomogeneous Porous Layer Underlying a Fluid Layer Saturated by Water
+keyword : 
+topic : Stability, Flow (Dynamics), Fluids, Porous materials, Anisotropy
+-----
+title : Instability of Jeffrey Fluid Throughflow in a Porous Layer Induced by Heat Source and Soret Effect
+keyword : Jeffrey fluid, heat source, double diffusive convection, Soret effect, porous medium
+topic : Stability, Fluid dynamics, Flow (Dynamics), Heat, Fluids, Porous materials, Relaxation (Physics), Rayleigh number, Convection, Thermophoresis
+-----
+title : A New Iterative Broyden Legendre Wavelet Galerkin Finite Element Method Applied to Unsteady State Model of Two-Dimensional Elliptic Fin
+keyword : Broyden method, elliptic fin, face splitting, Hadamard, Khatri Rao, Legendre Wavelet Galerkin finite element, unsteady
+topic : Temperature, Finite element methods, Wavelets, Wireless power transfer
+-----
+title : Exact Insulated-Tip Fin Length Correction for Tip Convection Compensation
+keyword : 
+topic : Temperature, Heat transfer, Convection, Errors, Fins, Shapes, Temperature profiles
+-----
+title : Heat Transfer Analysis of Memory-Dependent Derivative in Biological Tissue Subjected to a Moving Heat Source
+keyword : memory-dependent derivative, moving heat source, variable thermal conductivity, Kirchhoff and Laplace transformations
+topic : Heat, Temperature, Heat transfer, Relaxation (Physics), Thermal conductivity, Bioheat transfer, Biological tissues, Laplace transforms
+-----
+title : Semi-Analytical Solution for a Single-Phase Thermal Conduction Problem of a Hollow-Cylinder With a Growing or Receding Inner Radius
+keyword : 
+topic : Temperature, Heat conduction, Simulation, Transients (Dynamics), Finite element analysis, Annulus, Cylinders, Laplace transforms, Strips
+-----
+title : Sensitivity Analysis and Optimization of Heat Transfer Performance of Ultra-Thin Vapor Chamber With Composite Wick
+keyword : ultra-thin vapor chamber, thermal performance, sensitivity analysis, orthogonal test, structure optimization
+topic : Heat transfer, Vapors, Composite materials, Optimization
+-----
+title : An Ultrathin-Walled Foam Heat Pipe
+keyword : 
+topic : Heat, Temperature, Copper, Heat pipes, Condensers (steam plant), Thermal resistance
+-----
+title : Optimization of Manifold Microchannel Heat Sink Based on Design of Experiment Method
+keyword : 
+topic : Flow (Dynamics), Temperature, Heat transfer, Optimization, Experimental design, Heat sinks, Manifolds, Pressure drop, Microchannels
+-----
+title : Experimental Study on Melting and Solidification Cycle of a Hybrid Pin Fin/Metal Foam Energy Storage Tank
+keyword : latent heat energy storage, experimental research, melting and solidification, thermal efficiency
+topic : Temperature, Heat transfer, Metals, Heat storage, Paraffin wax, Melting, Energy storage, Solidification, Cycles, Fins, Metal foams
+-----
+title : Extended Neumann's Solution Accounting for Rayleigh–Bénard Convection in the Melt Layer of a Phase Change Material
+keyword : 
+topic : Temperature, Phase transitions, Melting, Thermal conductivity, Phase change materials, Convection
+-----
+title : Transient Heat Transfer to Rolling or Sliding Drops on Inclined Heated Superhydrophobic Surfaces
+keyword : superhydrophobic surface, rolling drops, convective heat transfer, temperature jump length
+topic : Temperature, Heat transfer, Drops, Transient heat transfer, Heating
+-----
+title : Optimization of Discrete Film Hole Arrangement on a Turbine Endwall With Middle Passage Gap
+keyword : 
+topic : Flow (Dynamics), Cooling, Coolants, Optimization, Blades, Film cooling
+-----
+title : Effects of Leading Edge Shape on Effusion Film Cooling
+keyword : 
+topic : Pressure, Cooling, Coolants, Shapes, Film cooling
+-----
+title : Numerical Investigation on Overall Cooling Effectiveness of Narrow-Channel Double-Wall Cooling
+keyword : double-wall cooling, narrow-channel, flow distribution, overall cooling effectiveness, numerical simulation
+topic : Flow (Dynamics), Heat transfer, Cooling, Fins, Film cooling
+-----
+title : Special Issue: First James V. Beck Memorial Symposium on Inverse Problems, Parameter Estimation, and Heat Conduction
+keyword : 
+topic : Heat conduction, Inverse problems, Parameter estimation
+-----
+title : Band Heater Heat Flux Characterization Using Inverse Heat Conduction Problem Models
+keyword : heat conduction, Green's functions, exact mathematical solution, inverse heat conduction problem
+topic : Temperature, Heat conduction, Pipes, Boundary-value problems, Errors, Water, Heating, Heat flux
+-----
+title : Transient Thermal Spreading From a Circular Heat Source in Polygonal Flux Tubes
+keyword : 
+topic : Heat, Temperature, Heat transfer, Transients (Dynamics), Geometry, Shapes
+-----
+title : Artificial Intelligence-Based Thermal Imaging for Breast Tumor Location and Size Estimation Using Thermal Impedance
+keyword : 
+topic : Temperature, Tumors
+-----
+title : Estimation of Multiple Contact Conductances in a Silicon-Indium-Silicon Stack
+keyword : cryogenics, interfacial heat transfer coefficients, parameter estimation, heat conduction, Levenberg iterations, Gauss minimization, Tikhonov regularization, sensitivity coefficients, inverse crime
+topic : Temperature, Sensors, Capacitance, Electrical conductance, Modeling, Errors, Finite element model, Parameter estimation, Silicon, Steady state, Heat transfer coefficients
+-----
+title : Construction of Short-Time Heat Conduction Solutions in One-Dimensional Finite Rectangular Bodies
+keyword : heat conduction, penetration time, deviation time, short-time solution, computational analytical solution, relative error
+topic : Temperature, Slabs, Boundary-value problems, Errors, Heat flux
+-----
+title : A Bayesian Spatiotemporal Modeling Approach to the Inverse Heat Conduction Problem
+keyword : IHCP, pool boiling, Bayesian inference, spatio-temporal model (STM)
+topic : Heat, Temperature, Heat conduction, Simulation, Algorithms, Modeling, Inverse problems, Pool boiling, Spatiotemporal phenomena, Thermocouples, Heat flux
+-----
+title : Genetic Algorithm as the Solution of Non-Linear Inverse Heat Conduction Problems: A Novel Sequential Approach
+keyword : inverse heat conduction problem, filter coefficients, genetic algorithm, surface heat flux estimation
+topic : Temperature, Heat conduction, Filters, Genetic algorithms, Heat flux
+-----
+title : A Transformative Approach for Breast Cancer Detection Using Physics-Informed Neural Network and Surface Temperature Data
+keyword : 
+topic : Physics, Heat, Temperature, Heat transfer, Algorithms, Modeling, Artificial neural networks, Cancer, Errors, Tumors, Machine learning
+-----
+title : Numerical Study of Pressure Response to Action Potential by Water Permeation With Ion Transports
+keyword : 
+topic : Pressure, Ions, Membranes, Water
+-----
+title : Minimum Air Cooling Requirements for Different Lithium-Ion Battery Operating Statuses
+keyword : battery pack, air-cooling, minimum cooling requirement, maximum temperature
+topic : Temperature, Cooling, Batteries
+-----
+title : Development of Freeze Resistant Heat Pipe With Water as Working Fluid for Automotive Applications
+keyword : heat pipe, freezing, anti-freeze, thermal management, automotive, electric vehicles
+topic : Temperature, Freezing, Fluids, Heat pipes, Water
+-----
+title : Evaporation Mechanisms and Heat Transfer in Porous Media of Mixed Wettabilities With a Simulated Solar Flux and Forced Convection Through the Media
+keyword : porous media, liquid island, liquid bridge, convection, hydraulic conductivity
+topic : Flow (Dynamics), Temperature, Vapors, Sands, Porous materials, Evaporation, Water
+-----
+title : The Impact of Roughness and Partitions in Thermal Convection to Enhance the Heat Transport
+keyword : 
+topic : Flow (Dynamics), Heat, Temperature, Heat conduction, Simulation, Surface roughness, Convection
+-----
+title : Two Models on the Unsteady Heat and Fluid Flow Induced by Stretching or Shrinking Sheets and Novel Time-Dependent Solutions
+keyword : stretchable/shrinkable walls, unsteady flow, unsteady heat, similarity solutions, steady Sakiadis-Crane model, steady Miklavcic and Wang model, non-Newtonian fluids
+topic : Fluid dynamics, Flow (Dynamics), Heat, Temperature, Heat transfer, Cranes, Shrinkage (Materials), Steady state, Unsteady flow, Wall temperature
+-----
+title : Experiments on Gasketed Plate Heat Exchangers With Segmented Corrugation Pattern
+keyword : gasketed plate heat exchanger, four-quadrant segmented plate, thermohydraulic performance, elastic deformation
+topic : Pressure, Flow (Dynamics), Deformation, Friction, Temperature, Heat transfer, Heat exchangers, Plates (structures), Pressure drop
+-----
+title : Integrated Thermal Management System Concept With Combined Jet Plate, High Porosity Aluminum Foam, and Target Plate for Enhanced Heat Transfer
+keyword : metal foam, jet impingement, conjugate heat transfer
+topic : Flow (Dynamics), Heat transfer, Foams (Chemistry), Aluminum, Reynolds number, Jets, Convection, Metal foams, Porosity, Pressure drop
+-----
+title : The Modified Guyer-Krumhansl Equations Derived From the Linear Boltzmann Transport Equation
+keyword : phonon hydrodynamics, Guyer-Krumhansl equations, second sound
+topic : Momentum, Hydrodynamics, Temperature, Crystals, Energy budget (Physics), Anisotropy, Collisions (Physics), Phonons, Second sound, Eigenvalues, Graphene, Shapes
+-----
+title : Experimental Investigations of Heat Transfer in Simultaneously Developing Transitional Regime of Mixed Convection Flows in a Vertical Tube
+keyword : 
+topic : Flow (Dynamics), Heat, Heat transfer, Turbulence, Mixed convection, Water, Heat flux
+-----
+title : Experimental Study of a Novel Helix-Shaped Oscillating Heat Pipe and Design Parameters for Flow Stabilization
+keyword : 
+topic : Oscillations, Flow (Dynamics), Heat, Temperature, Heat transfer, Fluids, Stress, Bubbles, Design, Heat pipes, Condensers (steam plant), Uncertainty
+-----
+title : Equivalent Enthalpy Model and Log-Mean Enthalpy Difference Method for Heat-Mass Transfer in Cooling Towers
+keyword : equivalent enthalpy model, log-mean enthalpy difference method, cooling tower, Merkel integral
+topic : Heat, Temperature, Mass transfer, Cooling towers, Enthalpy
+-----
+title : Modeling and Experimental Data Analysis of Oscillating Heat Pipes: A Review
+keyword : 
+topic : Oscillations, Pressure, Heat, Temperature, Heat transfer, Fluids, Vapors, Heat pipes, Modeling, Slug flows
+-----
+title : Symmetry Criteria for the Equality of Interior and Exterior Shape Factors With Exact Solutions
+keyword : heat conduction, shape factor, interior, exterior, symmetry, conformal mapping, regular polygons, N-fold symmetry
+topic : Shapes
+-----
+title : Evaporation Dynamics of Deionized Water Droplets on Rough Substrates: The Coupling of Stick-Jump Motion and Evaporation
+keyword : sessile droplet, contact angle and radius, evaporation mode, substrate roughness, pinning–depinning
+topic : Heat, Surface roughness, Drops, Evaporation, Water
+-----
+title : Long-Term Estimation of Depositions on Heating Surface During Boiling of Long-Life Coolant
+keyword : 
+topic : Temperature, Heat transfer, Copper, Coolants, Boiling, Heating, Heat flux
+-----
+title : An Experimental Study of Porous Coated Hybrid Elliptical Heating Tubes in Phase Change Heat Transfer
+keyword : coefficient of boiling heat transfer, orientation angle, hydrophobic porous coating, porous coated hybrid elliptical heating tube, wettability, enhancement factor
+topic : Heat, Heat transfer, Vapors, Coating processes, Coatings, Bubbles, Boiling, Nucleate boiling, Heating, Heat flux
+-----
+title : Enhanced Air-Flow Forced Convection Through Metal Foams: Contrasting Compressed and Uncompressed Foams
+keyword : 
+topic : Density, Flow (Dynamics), Temperature, Heat transfer, Foams (Chemistry), Air flow, Electrical conductance, Forced convection, Heat exchangers, Compression, Ducts, Metal foams, Porosity, Pressure drop, Heat transfer coefficients
+-----
+title : Identification of the Onset of Bifurcations in a Trapezoidal Cavity Receiver Open at the Top
+keyword : natural convection, pitchfork bifurcation, Hopf bifurcation, stable and unstable regime, trapezoidal cavity
+topic : Flow (Dynamics), Bifurcation, Cavities
+-----
+title : Quick Prediction of Complex Temperature Fields Using Conditional Generative Adversarial Networks
+keyword : 
+topic : Heat, Temperature, Generative adversarial networks
+-----
+title : Film-Cooling Effectiveness on a Turbine Blade Platform With Various Hole Shapes and Layouts
+keyword : film-cooling effectiveness, diffusion slot hole, turbine rotor blade, platform, experimental investigation
+topic : Pressure, Flow (Dynamics), Diffusion (Physics), Coolants, Turbine blades, Blades, Discharge coefficient, Shapes, Film cooling
+-----
+title : An Experimental Investigation of Sweeping Air/Mist Jet Film Cooling Through a Row of Passive Fluidic Oscillators
+keyword : sweeping jet, fluidic oscillators, two-phase flow, mist cooling, gas turbine heat transfer
+topic : Flow (Dynamics), Cooling, Drops, Water, Film cooling
+-----
+title : Analytical Solution for Transient Thermal Behavior of Two Semisolids With Contact Resistance and Interfacial Heat Generation
+keyword : 
+topic : Heat, Temperature, Contact resistance
+-----
+title : Atmospheric Bubbling Fluidized Bed Risers: Effect of Cone Angle on Fluid Dynamics and Heat Transfer
+keyword : cone angle, hydrodynamics, granular temperature, heat transfer, solid velocity
+topic : Temperature, Heat transfer, Particulate matter, Simulation, Risers (Casting), Fluidized beds, Pipeline risers
+-----
+title : Analytic Modeling of Two-Dimensional Transient Heat Conduction With Heat Source Under Mixed Boundary Constraints by Symplectic Superposition
+keyword : analytic modeling, heat conduction, mixed boundary constraints, symplectic superposition method
+topic : Heat, Temperature, Heat conduction, Modeling, Boundary-value problems, Eigenvalues, Laplace transforms, Transient heat transfer
+-----
+title : Enhanced Boiling of Saturated Water Over 2 × 3 AISI 304 Tube Bundles Coated With Diamond-Like Carbon for Two-Phase Heat Exchanger Applications
+keyword : diamond-like carbon coating, boiling, tube bundle, heat transfer coefficient, hydrophilic, bubble dynamics
+topic : Flow (Dynamics), Bubbles, Boiling, Heat exchangers, Pool boiling, Water, Heat flux
+-----
+title : Effect of Forced Convection Heat Transfer on Vapor Quality in Subcooled Flow Boiling
+keyword : 
+topic : Pressure, Flow (Dynamics), Temperature, Heat transfer, Vapors, Boiling, Forced convection, Porosity, Subcooling, Heat flux
+-----
+title : Coupled Wall Boiling and Population Balance Model for High Void Fraction Flows Under Sub-Cooled Nucleate Boiling Regime: Model Development and Validation
+keyword : subcooled boiling, two-fluid model, population balance model, bubble aggregation, flow regime transition
+topic : Flow (Dynamics), Fluids, Vapors, Bubbles, Boiling, Porosity, Subcooling, Water, Nucleate boiling, Heat flux
+-----
+title : Numerical Investigation of Thermal Performance of Minichannels With Transversely Patterned Nonslip and Superhydrophobic Surfaces in Turbulent Flow Conditions
+keyword : 
+topic : Flow (Dynamics), Friction, Heat transfer, Fluids, Turbulence, Reynolds number, Simulation, Boundary layers, Computational fluid dynamics, Boundary-value problems, Pressure drop, Shapes
+-----
+title : A Simplified Thermal Hydraulic Model for Solid Pin-Fueled Molten Salt Reactors Under Low-Flow Accident Scenarios
+keyword : 
+topic : Flow (Dynamics), Heat, Temperature, Fluids, Fuels, Manufacturing, Coolants, Transients (Dynamics), Accidents, Heat exchangers, Modeling
+-----
+title : Melting Behavior Effect of MXene Nanoenhanced Phase Change Material on Energy and Exergy Analysis of Double and Triplex Tube Latent Heat Thermal Energy Storage
+keyword : MXene nanoparticle, storage energy, exergetic efficiency, melting, TT-TES, Stefan number
+topic : Temperature, Heat transfer, Melting, Nanoparticles, Exergy, Phase change materials, Latent heat, Storage, Thermal energy storage, Mxenes, Alcohol
+-----
+title : Fluid Flow and Heat Transfer Due to Differentially Heated Walls of Horizontal Channel Filled With Porous Medium
+keyword : 
+topic : Dynamics (Mechanics), Fluid dynamics, Flow (Dynamics), Temperature, Heat transfer, Fluids, Permeability, Porous materials, Reynolds number, Convection, Mixed convection
+-----
+title : Transient Radiation Heat Transfer of Thermally Compact, Lumped Bodies: An Explicit Solution
+keyword : radiation heat transfer, transient heat transfer, analytic solution, didactics, thermal control, spacecraft
+topic : Heat, Temperature, Heat transfer, Cooling, Radiation (Physics), Heat conduction, Transients (Dynamics), Convection, Design, Delays, Space vehicles, Steady state, Heating
+-----
+title : A Novel Fast Wavenumber Selection Scheme for Line-by-Line Monte Carlo Simulations of High-Temperature Gases
+keyword : 
+topic : Heat, Temperature, Radiative heat transfer, Photons, Gases, Absorption spectra, Simulation, Engineering simulation, Carbon dioxide, Databases, Errors, Water, Emissions, High temperature
+-----
+title : Thermal Management and Entropy Minimization of Plain and Modified Shaped Plate Fin Heat Sinks Using Multi-Objective Genetic Algorithm
+keyword : plate fin heat sinks, modified plate fin, optimization, entropy generation, heat transfer, pumping power
+topic : Temperature, Heat transfer, Entropy, Design, Optimization, Heat sinks
+-----

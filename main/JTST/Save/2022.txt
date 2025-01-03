@@ -1,0 +1,48 @@
+title : Fundamental study on thermoradiative energy conversion for space applications
+keyword : Thermoradiative (TR), Photovoltaics (PV), Blackbody limit, HgCdTe (MCT)
+-----
+title : Conjugate radiation-convection-conduction simulation of cubic lattice solar receiver with high porosity for high-temperature heat absorption
+keyword : Conjugate radiation-convection-conduction simulation, Solar porous receiver, Cubic lattice
+-----
+title : Numerical investigation on performance improvement of CaSO4solar chemical heat pump
+keyword : Reactant bed, Finite difference method, Heat/mass transfer, Energy supply, Fins
+-----
+title : Fluidization behavior of redox metal oxide and spinel particles to develop high-energy-density thermal energy storage system for concentrated solar power applications
+keyword : Fluidized bed, Minimum fluidization velocity, Pressure drop, 2:1 iron-manganese oxide redox, Spinel
+-----
+title : Hydrogen production by solar fluidized bed reactor using ceria: Euler-Lagrange modelling of gas-solid flow to optimize the internally circulating fluidized bed
+keyword : Fluidized bed reactor, Beam-down solar concentrating system, Two-step water splitting cycles, CFD-DEM, Solar fuels
+-----
+title : Modeling and simulation of the discharge process of isothermal chamber to determine the isothermal characteristic
+keyword : Isothermal chamber, Effective thermal conductivity, Fractal theory, Discharge process, Isothermal characteristic
+-----
+title : Performance improvement of a micro-structured gas separator utilizing the Soret effect
+keyword : Soret effect, Thermal diffusion, Hydrogen, Gas separation, Network device, Partition
+-----
+title : Experimental study on the effect of turbulence on hot-smoke dispersion ejecting in a cross flow
+keyword : Smoke dispersion, Quasi-isotropic turbulence, Air pollution diffusion, Concentration distribution, Wind tunnel
+-----
+title : Mathematical study on the thickened interface model by viscosity solution of the level-set equation
+keyword : Level-set equation, Viscosity solution, Combustion flame, Thickened interface model, Conservation law, Phase field approach
+-----
+title : Effect of aluminum particle size on agglomeration size and burning rate of composite propellant
+keyword : Composite propellant, Aluminum, Agglomeration, Combustion, Burning rate
+-----
+title : Application of machine learning algorithms for the prediction of flame temperature in small-scale burner fueled with ethanol-diesel fuel blends
+keyword : Ethanol-diesel fuel blends, Flame temperature, Back propagation, Generalized regression neural network, Support vector machine
+-----
+title : Experimental investigation of a thermally driven pumping system for a potential application with a microgrid system for rural communities
+keyword : Microgrid system, Biogas, Waste heat recovery, Liquid piston, Thermodynamic cycle, Water pump
+-----
+title : Experimental analysis on micro diffusion flames formed by oxygen combustion of H2-CO2mixture using counterflow burners
+keyword : Hydrogen combustion, Oxygen-enriched combustion, Micro diffusion flame, Counterflow burner, Carbon-dioxide addition, Flame stretch rate, Biogas
+-----
+title : Machine learning-based prediction of heat transport performance in oscillating heat pipe
+keyword : Oscillating heat pipe, Heat transport device, Machine learning, Flow visualization, Gas-liquid two-phase flow, Heat transfer enhancement
+-----
+title : Effect of shear-thinning behavior on interface renewal in partially filled single rotor mixing
+keyword : Mixer, Shear-thinning behavior, Interface renewal, Devolatilization
+-----
+title : Multi-objective optimization of multi-stage heat sink of electric aircraft using three-dimensional thermal network analysis
+keyword : Electric aircraft, Heat sink, Multi-objective optimization, Pareto optimal solution, Plate fin, Conjugate heat transfer, Thermal network analysis
+-----

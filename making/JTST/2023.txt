@@ -1,0 +1,27 @@
+title : Reduction and optimization of ammonia-hydrogen combustion reaction kinetic model for HCCI engines
+keyword : Ammonia, Hydrogen, Combustion reaction kinetic model, Homogeneous charge compression ignition, Mechanism reduction, Mechanism optimization, Response surface analysis
+-----
+title : Combined effects of diesel energy ratio and diesel injection nozzle diameter on natural gas high pressure direct injection engine with EGR
+keyword : Natural gas, High pressure direct injection, Emission, Diesel energy ratio, Nozzle diameter
+-----
+title : Effects of inert-gas addition on the dynamic behavior and propagation characteristics of spherically expanding hydrogen-air flames
+keyword : Premixed combustion, Hydrogen flame, Inert-gas addition, Spherically expanding flame, Dynamic behavior, Cellular surface, Flame acceleration
+-----
+title : Large-eddy simulation of the non-adiabatic reforming process of hot coke oven gas using a flamelet-based approach
+keyword : Hot coke oven gas, Reforming, Non-adiabatic, Flamelet model, Large-eddy simulation
+-----
+title : Validation of Soave–Redlich–Kwong equation of state coupled with a classical mixing rule for sound speed of non-ideal gas mixture of oxygen-hydrogen as liquid rocket propellants
+keyword : Liquid rocket propellants, Mixture, Equation of state, Classical mixing rule, Molecular dynamics
+-----
+title : Improvement of isothermal characteristic of isothermal chamber by filling with graded copper foam
+keyword : Isothermal chamber, Copper foam, Isothermal characteristic, Graded porous structure
+-----
+title : Molecular dynamics simulation of energy transfer in reaction process near supported nanoparticle catalyst
+keyword : Molecular dynamics simulation, ReaxFF, Catalytic reaction, Energy transfer, Thermal conductance
+-----
+title : Development of a process for thin metal plates with electromagnetic pressure and surface tension
+keyword : Silicon crystal substrate, Surface tension, Electromagnetic pressure, AC Magnetic field, Frequency, Laplace pressure, Heat generation
+-----
+title : Influences of a small obstacle on the sidewall upon a detonation cellular structure
+keyword : Detonation, Re-activation, Small obstacle, Sidewall, Smoked foil
+-----

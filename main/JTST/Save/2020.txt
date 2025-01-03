@@ -1,0 +1,30 @@
+title : Performance of a hybrid LES/RANS model combined with a wall function for predicting quite high Reynolds-number turbulent channel flows up toReτ=6×107
+keyword : Turbulence, Anisotropy-resolving SGS model, Hybrid LES/RANS model, High Reynolds number, Wall function
+-----
+title : On the scaling of turbulence over an irregular rough surface in a transitionally rough regime
+keyword : Rough wall, Turbulence, Large eddy simulation, Lattice Boltzmann method
+-----
+title : A new framework for design and validation of complex heat transfer surfaces based on adjoint optimization and rapid prototyping technologies
+keyword : Shape optimization, Turbulent flow, Heat transfer, Direct numerical simulation, Single blow method
+-----
+title : Effect of thermal wall condition on the dissimilarity of momentum and heat transfer in pulsating channel flow
+keyword : Turbulent heat transfer, Channel flow, Boundary condition, Pulsating flow, Dissimilarity, Direct numerical simulation
+-----
+title : Conjugate simulation of solar honeycomb receiver for high temperature heat absorption at constant incident heat flux
+keyword : Honeycomb receiver, Receiver efficiency, Conjugate radiation-convection-conduction, Simulation
+-----
+title : Magnetothermal force effect on natural convection through a partially-heated vertical channel
+keyword : Natural convection, Paramagnetic fluid, Magnetic field, Magnetothermal force, Heat transfer enhancement/suppression, Vibrating flow
+-----
+title : Coupled heat transfer characteristics on gas-solid reacting interface in carbon-oxygen dissociating environment for spacecraft entry flow
+keyword : Heat transfer, Reacting flow, Numerical simulation, Hypersonic, Carbon-oxygen dissociation, Coupling, Surface catalysis, Material ablation
+-----
+title : Turning flight simulation of tilt-rotor plane with fluid-rigid body interaction
+keyword : Computational fluid dynamics, Moving grid, Sliding mesh, Tilt rotor, Flight simulation, Coupled simulation
+-----
+title : Chaos theory-based time series analysis of in-cylinder pressure and its application in combustion control of SI engines
+keyword : Nonlinear dynamics analysis, State reconstruction, Combustion phase estimation, In-cylinder pressure, Extreme learning machine, Spark advance control
+-----
+title : Improving surface temperature measurement of the power cable and insulated busbar using the heat insulated layer
+keyword : Power cable, Insulated busbar, Temperature measurement, Thermal analysis, Indirect verification
+-----
